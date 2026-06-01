@@ -1,0 +1,7 @@
+  1 try { . "c:\Users\Nikhil R\AppData\Local\Programs\Microsoft VS Code\8761a5560c\resources\app\out\vs\workbench\con...
+   2 git status                                                                                                          
+   3 cls                                                                                                                 
+   4 git rm git_command.txt                                                                                              
+   5 git rebase --continue                                                                                               
+   6 git status                                                                                                          
+   7 git hisotry
